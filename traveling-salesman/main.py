@@ -28,7 +28,7 @@ T = [[1 for i in range(n)] for j in range(n)]
 deltaT = [[1/n for i in range(n)] for j in range(n)]
 d = [[distance(i, j) for i in range(n)] for j in range(n)]
 
-ants = [{'init': randrange(0, n), 'path': [], 'dist': 0} for i in range(n)]
+ants = [{'init': randrange(0, n), 'path': [], 'dist': 0} for i in range(n*10)]
 bestAnt = ants[0]
 
 for k in range(50):
