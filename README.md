@@ -28,4 +28,5 @@ Assumptions of problem:
 ```
 
 ![Solution](traveling-salesman/assets/plot.png)
+
 *Fig. 2 Plot showing solution to travelling salesman problem from implementation (line thickness describes pheromone concentation; orange line shows the optimal path)*
