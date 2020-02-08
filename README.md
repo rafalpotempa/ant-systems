@@ -18,6 +18,8 @@ Assumptions of problem:
 4. Having completed its journey, the ant deposits more pheromones on all edges it traversed, if the journey is short;
 5. After each iteration, trails of pheromones evaporate.
 
+[Soruce](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+
 ![pic](https://upload.wikimedia.org/wikipedia/commons/2/2a/Aco_TSP.svg)
 *Fig. 1 Travelling salesman problem solution (by <a href="//commons.wikimedia.org/wiki/User:Nojhan" title="User:Nojhan">Nojhan</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=820846">Link</a>)*
 
